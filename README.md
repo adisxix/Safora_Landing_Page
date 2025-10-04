@@ -17,4 +17,4 @@ Safora is a modern, responsive landing page built to showcase a digital security
 - HTML – Structure of the landing page
 - CSS – Styling, layout, and responsive design
 - Font Awesome – Icons
-- Images/Assets: SVGs for logos 
+- Images/Assets -SVGs for logos 
